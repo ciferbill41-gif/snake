@@ -1,7 +1,7 @@
 # Змейка (desktop)
 
 Простая desktop-игра «Змейка» на Python и Tkinter.
-
+Приложение создано с помощью одного промта в ChatGPT Codex.
 ## Запуск
 
 ```bash
